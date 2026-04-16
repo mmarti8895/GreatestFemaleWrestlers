@@ -20,7 +20,12 @@
     promotion.ranking.forEach((entry) => {
       const row = document.createElement('tr');
       const breakdown = Object.entries(entry.breakdown)
-        .map(([key, value]) => `${key}: ${value}`)
+        .map(([key, value]) => {
+          const label = key
+            .replace(/([A-Z])/g, ' $1')
+            .replace(/^./, (char) => char.toUpperCase());
+          return `${label}: ${value}`;
+        })
         .join(', ');
 
       row.innerHTML = `
