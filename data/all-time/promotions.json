@@ -1,0 +1,132 @@
+{
+  "promotions": [
+    {
+      "id": "wwe-wwf",
+      "name": "WWE / WWF",
+      "description": "Main-roster and legacy WWF/WWE careers considered.",
+      "updatedAt": "2026-04-16",
+      "ranking": [
+        {
+          "rank": 1,
+          "name": "Trish Stratus",
+          "score": 95,
+          "breakdown": { "titleImpact": 38, "longevity": 23, "influence": 20, "matchQuality": 14 }
+        },
+        {
+          "rank": 2,
+          "name": "Becky Lynch",
+          "score": 93,
+          "breakdown": { "titleImpact": 37, "longevity": 22, "influence": 19, "matchQuality": 15 }
+        },
+        {
+          "rank": 3,
+          "name": "Charlotte Flair",
+          "score": 92,
+          "breakdown": { "titleImpact": 39, "longevity": 20, "influence": 18, "matchQuality": 15 }
+        },
+        {
+          "rank": 4,
+          "name": "Lita",
+          "score": 87,
+          "breakdown": { "titleImpact": 31, "longevity": 20, "influence": 20, "matchQuality": 16 }
+        },
+        {
+          "rank": 5,
+          "name": "Sasha Banks / Mercedes Moné",
+          "score": 86,
+          "breakdown": { "titleImpact": 33, "longevity": 19, "influence": 18, "matchQuality": 16 }
+        }
+      ]
+    },
+    {
+      "id": "wcw",
+      "name": "WCW",
+      "description": "WCW-associated women with emphasis on title significance and influence in era.",
+      "updatedAt": "2026-04-16",
+      "ranking": [
+        {
+          "rank": 1,
+          "name": "Madusa",
+          "score": 90,
+          "breakdown": { "titleImpact": 35, "longevity": 22, "influence": 20, "matchQuality": 13 }
+        },
+        {
+          "rank": 2,
+          "name": "Akira Hokuto",
+          "score": 85,
+          "breakdown": { "titleImpact": 30, "longevity": 18, "influence": 19, "matchQuality": 18 }
+        },
+        {
+          "rank": 3,
+          "name": "Bull Nakano",
+          "score": 84,
+          "breakdown": { "titleImpact": 29, "longevity": 20, "influence": 20, "matchQuality": 15 }
+        }
+      ]
+    },
+    {
+      "id": "aew",
+      "name": "AEW",
+      "description": "AEW women's division accomplishments and era impact.",
+      "updatedAt": "2026-04-16",
+      "ranking": [
+        {
+          "rank": 1,
+          "name": "Toni Storm",
+          "score": 91,
+          "breakdown": { "titleImpact": 36, "longevity": 20, "influence": 19, "matchQuality": 16 }
+        },
+        {
+          "rank": 2,
+          "name": "Hikaru Shida",
+          "score": 90,
+          "breakdown": { "titleImpact": 35, "longevity": 22, "influence": 17, "matchQuality": 16 }
+        },
+        {
+          "rank": 3,
+          "name": "Jamie Hayter",
+          "score": 83,
+          "breakdown": { "titleImpact": 30, "longevity": 16, "influence": 16, "matchQuality": 21 }
+        },
+        {
+          "rank": 4,
+          "name": "Dr. Britt Baker, D.M.D.",
+          "score": 82,
+          "breakdown": { "titleImpact": 31, "longevity": 19, "influence": 17, "matchQuality": 15 }
+        }
+      ]
+    },
+    {
+      "id": "tna-impact",
+      "name": "TNA / Impact",
+      "description": "Knockouts division achievements and long-term influence.",
+      "updatedAt": "2026-04-16",
+      "ranking": [
+        {
+          "rank": 1,
+          "name": "Gail Kim",
+          "score": 97,
+          "breakdown": { "titleImpact": 39, "longevity": 24, "influence": 20, "matchQuality": 14 }
+        },
+        {
+          "rank": 2,
+          "name": "Awesome Kong",
+          "score": 92,
+          "breakdown": { "titleImpact": 35, "longevity": 22, "influence": 20, "matchQuality": 15 }
+        },
+        {
+          "rank": 3,
+          "name": "Deonna Purrazzo",
+          "score": 88,
+          "breakdown": { "titleImpact": 34, "longevity": 20, "influence": 16, "matchQuality": 18 }
+        },
+        {
+          "rank": 4,
+          "name": "Mickie James",
+          "score": 87,
+          "breakdown": { "titleImpact": 33, "longevity": 21, "influence": 17, "matchQuality": 16 }
+        }
+      ]
+    }
+  ]
+}

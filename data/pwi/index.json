@@ -1,0 +1,29 @@
+{
+  "notes": "Partial PWI data only (top 10 per year) for fair-use-friendly repository publishing.",
+  "years": [
+    {
+      "year": 2022,
+      "file": "2022.json",
+      "listName": "PWI Women's 150",
+      "entriesIncluded": 10,
+      "fullListSize": 150,
+      "sourceRef": "pwi-womens-150-2022"
+    },
+    {
+      "year": 2023,
+      "file": "2023.json",
+      "listName": "PWI Women's 250",
+      "entriesIncluded": 10,
+      "fullListSize": 250,
+      "sourceRef": "pwi-womens-250-2023"
+    },
+    {
+      "year": 2024,
+      "file": "2024.json",
+      "listName": "PWI Women's 250",
+      "entriesIncluded": 10,
+      "fullListSize": 250,
+      "sourceRef": "pwi-womens-250-2024"
+    }
+  ]
+}

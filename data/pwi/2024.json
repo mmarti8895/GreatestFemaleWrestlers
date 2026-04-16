@@ -1,0 +1,16 @@
+{
+  "year": 2024,
+  "listName": "PWI Women's 250",
+  "entries": [
+    { "rank": 1, "name": "Iyo Sky", "promotion": "WWE", "notes": "Top-10 partial entry" },
+    { "rank": 2, "name": "Rhea Ripley", "promotion": "WWE", "notes": "Top-10 partial entry" },
+    { "rank": 3, "name": "Toni Storm", "promotion": "AEW", "notes": "Top-10 partial entry" },
+    { "rank": 4, "name": "Athena", "promotion": "ROH", "notes": "Top-10 partial entry" },
+    { "rank": 5, "name": "Willow Nightingale", "promotion": "AEW", "notes": "Top-10 partial entry" },
+    { "rank": 6, "name": "Mayu Iwatani", "promotion": "STARDOM", "notes": "Top-10 partial entry" },
+    { "rank": 7, "name": "Sareee", "promotion": "Freelance", "notes": "Top-10 partial entry" },
+    { "rank": 8, "name": "Stephanie Vaquer", "promotion": "CMLL", "notes": "Top-10 partial entry" },
+    { "rank": 9, "name": "Becky Lynch", "promotion": "WWE", "notes": "Top-10 partial entry" },
+    { "rank": 10, "name": "Bayley", "promotion": "WWE", "notes": "Top-10 partial entry" }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "year": 2023,
+  "listName": "PWI Women's 250",
+  "entries": [
+    { "rank": 1, "name": "Rhea Ripley", "promotion": "WWE", "notes": "Top-10 partial entry" },
+    { "rank": 2, "name": "Giulia", "promotion": "STARDOM", "notes": "Top-10 partial entry" },
+    { "rank": 3, "name": "Tam Nakano", "promotion": "STARDOM", "notes": "Top-10 partial entry" },
+    { "rank": 4, "name": "Jamie Hayter", "promotion": "AEW", "notes": "Top-10 partial entry" },
+    { "rank": 5, "name": "Athena", "promotion": "ROH", "notes": "Top-10 partial entry" },
+    { "rank": 6, "name": "Bianca Belair", "promotion": "WWE", "notes": "Top-10 partial entry" },
+    { "rank": 7, "name": "Hikaru Shida", "promotion": "AEW", "notes": "Top-10 partial entry" },
+    { "rank": 8, "name": "Masha Slamovich", "promotion": "Impact", "notes": "Top-10 partial entry" },
+    { "rank": 9, "name": "Trinity", "promotion": "Impact", "notes": "Top-10 partial entry" },
+    { "rank": 10, "name": "Deonna Purrazzo", "promotion": "Impact", "notes": "Top-10 partial entry" }
+  ]
+}

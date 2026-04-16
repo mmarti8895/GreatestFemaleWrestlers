@@ -1,0 +1,16 @@
+{
+  "year": 2022,
+  "listName": "PWI Women's 150",
+  "entries": [
+    { "rank": 1, "name": "Syuri", "promotion": "STARDOM", "notes": "Top-10 partial entry" },
+    { "rank": 2, "name": "Bianca Belair", "promotion": "WWE", "notes": "Top-10 partial entry" },
+    { "rank": 3, "name": "Jade Cargill", "promotion": "AEW", "notes": "Top-10 partial entry" },
+    { "rank": 4, "name": "Thunder Rosa", "promotion": "AEW", "notes": "Top-10 partial entry" },
+    { "rank": 5, "name": "Charlotte Flair", "promotion": "WWE", "notes": "Top-10 partial entry" },
+    { "rank": 6, "name": "Becky Lynch", "promotion": "WWE", "notes": "Top-10 partial entry" },
+    { "rank": 7, "name": "Saya Kamitani", "promotion": "STARDOM", "notes": "Top-10 partial entry" },
+    { "rank": 8, "name": "Mickie James", "promotion": "Impact", "notes": "Top-10 partial entry" },
+    { "rank": 9, "name": "Masha Slamovich", "promotion": "Impact", "notes": "Top-10 partial entry" },
+    { "rank": 10, "name": "Kamille", "promotion": "NWA", "notes": "Top-10 partial entry" }
+  ]
+}

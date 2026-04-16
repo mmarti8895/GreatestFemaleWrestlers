@@ -1,0 +1,34 @@
+{
+  "sources": [
+    {
+      "id": "pwi-main",
+      "title": "Pro Wrestling Illustrated (official site)",
+      "url": "https://pwi-online.com/",
+      "notes": "Official publisher. This repository stores only limited, attribution-heavy partial entries."
+    },
+    {
+      "id": "pwi-womens-150-2022",
+      "title": "PWI Women's 150 (2022 release materials)",
+      "url": "https://pwi-online.com/",
+      "notes": "Used for partial top-10 style reference in /data/pwi/2022.json."
+    },
+    {
+      "id": "pwi-womens-250-2023",
+      "title": "PWI Women's 250 (2023 release materials)",
+      "url": "https://pwi-online.com/",
+      "notes": "Used for partial top-10 style reference in /data/pwi/2023.json."
+    },
+    {
+      "id": "pwi-womens-250-2024",
+      "title": "PWI Women's 250 (2024 release materials)",
+      "url": "https://pwi-online.com/",
+      "notes": "Used for partial top-10 style reference in /data/pwi/2024.json."
+    },
+    {
+      "id": "curated-all-time",
+      "title": "Repository-curated all-time scoring",
+      "url": "https://github.com/mmarti8895/GreatestFemaleWrestlers",
+      "notes": "Promotion-specific all-time lists and rubric are editorial, with transparent score breakdowns."
+    }
+  ]
+}
