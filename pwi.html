@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>PWI Rankings | Greatest Female Wrestlers</title>
+  <link rel="stylesheet" href="assets/styles.css" />
+</head>
+<body>
+  <header>
+    <h1>PWI Women's Rankings</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="pwi.html">PWI Rankings</a>
+      <a href="all-time.html">All-time by Promotion</a>
+      <a href="methodology.html">Methodology</a>
+      <a href="sources.html">Sources</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="controls">
+      <label for="year-select">Year:</label>
+      <select id="year-select"></select>
+
+      <label for="search-input">Search:</label>
+      <input id="search-input" type="search" placeholder="Name or promotion" />
+    </section>
+
+    <section>
+      <p id="year-meta" class="muted"></p>
+      <p id="pwi-error" class="muted" hidden></p>
+      <table>
+        <thead>
+          <tr>
+            <th>Rank</th>
+            <th>Wrestler</th>
+            <th>Promotion</th>
+            <th>Notes</th>
+          </tr>
+        </thead>
+        <tbody id="pwi-table-body"></tbody>
+      </table>
+      <p id="pwi-empty" class="muted" hidden>No results match your search.</p>
+    </section>
+  </main>
+
+  <script src="assets/pwi.js"></script>
+</body>
+</html>

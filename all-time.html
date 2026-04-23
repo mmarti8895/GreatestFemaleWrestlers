@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>All-time by Promotion | Greatest Female Wrestlers</title>
+  <link rel="stylesheet" href="assets/styles.css" />
+</head>
+<body>
+  <header>
+    <h1>All-time Rankings by Promotion</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="pwi.html">PWI Rankings</a>
+      <a href="all-time.html">All-time by Promotion</a>
+      <a href="methodology.html">Methodology</a>
+      <a href="sources.html">Sources</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="controls">
+      <label for="promotion-select">Promotion:</label>
+      <select id="promotion-select"></select>
+    </section>
+
+    <section>
+      <p id="promotion-description" class="muted"></p>
+      <p id="all-time-error" class="muted" hidden></p>
+      <table>
+        <thead>
+          <tr>
+            <th>Rank</th>
+            <th>Wrestler</th>
+            <th>Total Score</th>
+            <th>Scoring Breakdown</th>
+          </tr>
+        </thead>
+        <tbody id="all-time-table-body"></tbody>
+      </table>
+    </section>
+  </main>
+
+  <script src="assets/all-time.js"></script>
+</body>
+</html>
