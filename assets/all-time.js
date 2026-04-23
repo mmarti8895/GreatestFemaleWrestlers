@@ -11,11 +11,13 @@
   }
 
   function renderPromotion(promotionId, data) {
-    const promotion = data.promotions.find((item) => item.id === promotionId) || data.promotions[0];
+    const promotion = promotionId
+      ? data.promotions.find((item) => item.id === promotionId)
+      : data.promotions[0];
     tableBody.innerHTML = '';
 
     if (!promotion) {
-      description.textContent = 'No promotion data available.';
+      description.textContent = 'Selected promotion was not found.';
       return;
     }
 
